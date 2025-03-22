@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+ 
+# Editor configuration files
+.vscode/ 
+
+# Environment files (MongoDB configuration, API keys, etc.)
+.env
